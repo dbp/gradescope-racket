@@ -8,7 +8,7 @@
 
 (require (for-syntax syntax/parse))
 
-(provide produce-report/exit  define-var generate-results generate-results/hash test-case-timeout submission-directory results-path autodetect-extension)
+(provide produce-report/exit  define-var generate-results generate-results/hash test-case-timeout submission-directory results-path autodetect-extension autodetect-file)
 
 (provide mirror-macro)
 
